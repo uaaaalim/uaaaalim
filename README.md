@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alim</h1>
+<h1 align="center">Hi there, I'm Alim 👋</h1>
 
 <h3 align="center">Developer | Data Science student | Enthusiast</h3>
 
