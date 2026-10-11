@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Alim</h1>
 
-<!--
-**uaaaalim/uaaaalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Developer | Data Science student | Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🚀
+
+- 🏫 Narxoz student - major is Statistics and Data Sciense
+- 🌐 Interested in Web Development (mostly backend, but also frontend)
+- 🌍 Based in Almaty, Kazakhstan
+
+### 🔨 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,python,java,javascript,typescript,next,spring,postgres,html,css" />
+</p>
+
+### 📡 Contact With Me
+
+[Telegram](https://t.me/uaaaalim)
