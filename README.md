@@ -13,7 +13,7 @@
 ### 🔨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,python,java,javascript,typescript,next,spring,postgres,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,go,next,spring,postgres,html,css" />
 </p>
 
 ### 📡 Contact With Me
